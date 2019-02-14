@@ -1,0 +1,1 @@
+var playlist = {Led Zeppelin: "Whole Lotta Love"};
